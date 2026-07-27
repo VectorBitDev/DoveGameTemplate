@@ -1,0 +1,3 @@
+[submodule "dependencies/DoveCanvas"]
+	path = dependencies/DoveCanvas
+	url = https://github.com/VectorBitDev/DoveCanvas.git
