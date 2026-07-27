@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/dependencies/" />
   <Folder Name="/dependencies/src/">
-    <Project Path="dependencies/src/DoveCanvas.csproj" />
+    <Project Path="dependencies/DoveCanvas/src/DoveCanvas.csproj" />
   </Folder>
   <Project Path="src/src.csproj" />
 </Solution>

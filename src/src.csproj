@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\dependencies\src\DoveCanvas.csproj" />
+    <ProjectReference Include="..\dependencies\DoveCanvas\src\DoveCanvas.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
